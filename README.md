@@ -1,2 +1,2 @@
 # PFNE
-Python for net eng
+Python for network enginer
